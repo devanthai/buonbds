@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devanthai/buonbds/issues"
   },
-  "homepage": "https://github.com/devanthai/buonbds#readme"
+  "homepage": "https://github.com/devanthai/buonbds#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
